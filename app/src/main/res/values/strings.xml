@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Exemplo_Multimidia</string>
+    <string name="parar">Stop</string>
+    <string name="executar">Play</string>
+    <string name="pausar">Pause</string>
+</resources>
